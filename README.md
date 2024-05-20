@@ -1,4 +1,4 @@
-#system-admin-helper
+System-Admin-Helper
 
 This project is a simple system admin helper created by Heba-Allah Saad as part of the System Administration Track in ITI. The system provides a practical approach for automating routine tasks and simplifying administrative processes like  Add User, Remove User, Update User, List User Details, Add Group, Remove Group, Disable User Account, Enable User Account, Lock User Account, Change User Password, and Exit from the program.
 
