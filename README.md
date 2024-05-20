@@ -8,7 +8,7 @@ Usage:
 
 Clone the repository to your local machine and navigate to the project directory.
 
-git clone https://github.com/heba-hamed/system-admin-helper.git
+https://github.com/heba-hamed/system-admin-helper.git
 cd system-admin-helper
 
     Make the Script Executable: chmod +x bashProject.sh
