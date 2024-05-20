@@ -4,24 +4,23 @@ This project is a simple system admin helper created by Heba-Allah Saad as part 
 
 Usage:
 
-Clone the repository to your local machine and navigate to the project directory.
+    Clone the repository to your local machine and navigate to the project directory.
 
-    Clone the Repository:
+    1- Clone the Repository:
     git clone https://github.com/heba-hamed/system-admin-helper.git   
     
     cd system-admin-helper
 
-    Make the Script Executable: 
+    2- Make the Script Executable: 
     chmod +x bashProject.sh
 
-    Run the Script:
+    3- Run the Script:
     ./bashProject.sh
-
-
-Follow On-Screen Instructions: Follow the prompts and instructions displayed on the screen.
-
-File Structure:
-bashProject.sh: The main script containing the main menu and sub menus under every option on the main menu to manage your system effectively.
+    
+    Follow On-Screen Instructions: Follow the prompts and instructions displayed on the screen.
+    
+    5- File Structure:
+    bashProject.sh: The main script containing the main menu and sub menus under every option on the main menu to manage your system effectively.
 
 Contributors: Heba-Allah Saad
 
