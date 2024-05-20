@@ -1,25 +1,22 @@
-System-Admin-Helper
+System Admin Helper
 
 This project is a simple system admin helper created by Heba-Allah Saad as part of the System Administration Track in ITI. The system provides a practical approach for automating routine tasks and simplifying administrative processes like  Add User, Remove User, Update User, List User Details, Add Group, Remove Group, Disable User Account, Enable User Account, Lock User Account, Change User Password, and Exit from the program.
 
 Usage:
 
-    Clone the Repository:
-
 Clone the repository to your local machine and navigate to the project directory.
 
-https://github.com/heba-hamed/system-admin-helper.git
-cd system-admin-helper
+    Clone the Repository:https://github.com/heba-hamed/system-admin-helper.git   cd system-admin-helper
 
     Make the Script Executable: chmod +x bashProject.sh
 
     Run the Script: ./bashProject.sh
 
-    Follow On-Screen Instructions: Follow the prompts and instructions displayed on the screen.
 
-    File Structure:
+Follow On-Screen Instructions: Follow the prompts and instructions displayed on the screen.
 
-bashProject.sh: The main script containing the main menu and sub menus under it to manage your system effectively.
+File Structure:
+bashProject.sh: The main script containing the main menu and sub menus under every option on the main menu to manage your system effectively.
 
 Contributors: Heba-Allah Saad
 
